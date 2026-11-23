@@ -21,14 +21,14 @@
       "id": "etfs-europe",
       "name": "European ETFs",
       "icon": "🇪🇺",
-      "color": "#10B981",
+      "color": "#06B6D4",
       "symbols": [
         "EMIM.AS",
         "VWCE.DE",
         "IWDA.AS"
       ],
       "createdAt": "2026-11-23T17:00:00Z",
-      "updatedAt": "2026-11-23T17:00:00Z"
+      "updatedAt": "2026-11-23T21:01:31.365Z"
     },
     {
       "id": "etfseu-mwtr327l",
