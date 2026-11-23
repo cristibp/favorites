@@ -7,7 +7,13 @@
       "name": "Main Watchlist",
       "icon": "⭐",
       "color": "#3B82F6",
-      "symbols": ["EMIM.AS", "VWCE.DE", "AAPL", "NVDA", "SPY"],
+      "symbols": [
+        "EMIM.AS",
+        "VWCE.DE",
+        "AAPL",
+        "NVDA",
+        "SPY"
+      ],
       "createdAt": "2026-11-23T17:00:00Z",
       "updatedAt": "2026-11-23T17:00:00Z"
     },
@@ -16,9 +22,22 @@
       "name": "European ETFs",
       "icon": "🇪🇺",
       "color": "#10B981",
-      "symbols": ["EMIM.AS", "VWCE.DE", "IWDA.AS"],
+      "symbols": [
+        "EMIM.AS",
+        "VWCE.DE",
+        "IWDA.AS"
+      ],
       "createdAt": "2026-11-23T17:00:00Z",
       "updatedAt": "2026-11-23T17:00:00Z"
+    },
+    {
+      "id": "etfseu-mwtr327l",
+      "name": "ETFsEU",
+      "icon": "⭐",
+      "color": "#3B82F6",
+      "symbols": [],
+      "createdAt": "2026-11-23T21:00:56.433Z",
+      "updatedAt": "2026-11-23T21:00:56.433Z"
     }
   ]
 }
