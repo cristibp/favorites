@@ -8,14 +8,17 @@
       "icon": "⭐",
       "color": "#3B82F6",
       "symbols": [
-        "EMIM.AS",
-        "VWCE.DE",
-        "AAPL",
-        "NVDA",
-        "SPY"
+        "SPY",
+        "WHR",
+        "VOW.DE",
+        "PEP",
+        "PG",
+        "ORCL",
+        "GOOGL",
+        "PFE"
       ],
       "createdAt": "2026-11-23T17:00:00Z",
-      "updatedAt": "2026-11-23T17:00:00Z"
+      "updatedAt": "2026-11-23T21:05:49.909Z"
     },
     {
       "id": "etfs-europe",
