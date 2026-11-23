@@ -40,9 +40,14 @@
       "name": "ETFsEU",
       "icon": "⭐",
       "color": "#3B82F6",
-      "symbols": [],
+      "symbols": [
+        "EMIM.AS",
+        "SPY",
+        "CSNDXM.XD",
+        "WEBN.DE"
+      ],
       "createdAt": "2026-11-23T21:00:56.433Z",
-      "updatedAt": "2026-11-23T21:00:56.433Z"
+      "updatedAt": "2026-11-23T21:15:20.717Z"
     }
   ]
 }
