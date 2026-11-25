@@ -3,15 +3,6 @@
   "defaultListId": "etfs-eu",
   "lists": [
     {
-      "id": "etfs-us",
-      "name": "ETFs US",
-      "icon": "🇺🇸",
-      "color": "#3B82F6",
-      "symbols": [],
-      "createdAt": "2026-11-25T18:59:00Z",
-      "updatedAt": "2026-11-25T21:01:00.000Z"
-    },
-    {
       "id": "etfs-eu",
       "name": "ETF EU",
       "icon": "🇪🇺",
