@@ -188,8 +188,8 @@
     },
     {
       "id": "stocks-other",
-      "name": "Stocks",
-      "icon": "🌐",
+      "name": "Non-US-Stocks",
+      "icon": "🌍",
       "color": "#F59E0B",
       "symbols": [
         "BYDDF",
@@ -200,7 +200,7 @@
         "XPEV"
       ],
       "createdAt": "2026-11-25T18:59:00Z",
-      "updatedAt": "2026-11-25T18:59:00.000Z"
+      "updatedAt": "2026-11-25T19:08:24.792Z"
     },
     {
       "id": "ico",
