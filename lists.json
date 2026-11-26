@@ -175,10 +175,11 @@
         "VICI",
         "AMT",
         "CCI",
-        "WELL"
+        "WELL",
+        "ANT"
       ],
       "createdAt": "2026-11-25T18:59:00Z",
-      "updatedAt": "2026-11-26T20:11:02.828Z"
+      "updatedAt": "2026-11-26T20:13:22.273Z"
     },
     {
       "id": "stocks-other",
