@@ -78,7 +78,6 @@
       "icon": "🇺🇸",
       "color": "#10B981",
       "symbols": [
-        "ORA",
         "UNH",
         "ARM",
         "WHR",
@@ -184,7 +183,7 @@
         "WELL"
       ],
       "createdAt": "2026-11-25T18:59:00Z",
-      "updatedAt": "2026-11-25T18:59:00.000Z"
+      "updatedAt": "2026-11-26T19:07:37.909Z"
     },
     {
       "id": "stocks-other",
