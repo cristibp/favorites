@@ -106,7 +106,6 @@
         "UPS",
         "BN",
         "HD",
-        "SKT",
         "AVGO",
         "MA",
         "MAR",
@@ -176,7 +175,7 @@
         "ANT"
       ],
       "createdAt": "2026-11-25T18:59:00Z",
-      "updatedAt": "2026-11-26T20:13:22.273Z"
+      "updatedAt": "2026-11-27T14:34:05.184Z"
     },
     {
       "id": "stocks-other",
